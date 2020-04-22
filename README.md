@@ -2,10 +2,12 @@
 
 ## Introduction
 
-A little race game implemented at Graphic Computer classes. Intends to make an improved version of the old Atari game "Enduro" using some 
-concepts learned in class.
+A little race game implemented at Graphic Computer classes. Intends to make an improved version of the old Atari game "Enduro" using some concepts learned in class.
 
-#### Students:
+
+![screenshot](/screenshots/enduro.png)
+
+**Students**:
 
 * [Gabriela Carvalho Camilo](https://github.com/gabcamilo/)
 
@@ -13,8 +15,15 @@ concepts learned in class.
 
 * [Rafaela Polizel](https://github.com/polizelr/)
 
+***Class taught by Professor Leandro Alves Neves at São Paulo State University - São José do Rio Preto, Brazil (2016)***
 
-*Class taught by Professor Leandro Alves Neves at São Paulo State University (2016)*
+## Project Goals
+
+1- Translate the code to english so it can be more easylly read by everyone;
+
+2- Refactor the code to meet best practices
+
+3- Implement new features!
 
 ## Objectives
 
