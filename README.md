@@ -5,7 +5,7 @@
 A little race game implemented at Graphic Computer classes. Intends to make an improved version of the old Atari game "Enduro" using some concepts learned in class.
 
 
-![screenshot](/screenshots/enduro.png)
+![screenshot](enduro.png)
 
 **Students**:
 
